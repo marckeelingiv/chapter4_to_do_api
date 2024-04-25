@@ -1,0 +1,8 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore SQLite database files
+*.sqlite3
